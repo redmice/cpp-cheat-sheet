@@ -42,11 +42,11 @@
 
 ![Legend](General/Legend.png)
 
-![DataStructures](General/Data Structures.png)
+![DataStructures](General/Data%20Structures.png)
 
-![ComplexityChart](General/Complexity Chart.png)
+![ComplexityChart](General/ComplexityChart.png)
 
-![DataStructureSelection](General/Data Structures Selection.png)
+![DataStructureSelection](General/DataStructuresSelection.png)
 -------------------------------------------------------
 ### 1.2 Vector `std::vector`
 **Use for**
